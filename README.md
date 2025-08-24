@@ -25,7 +25,7 @@ Environment: Jupyter Notebook
 
 🚀 How to Run
 Clone this repository:
-git clone https://github.com/YOUR_USERNAME/SMS-Spam-Classification.git
+git clone https://github.com/sairamana2/SMS-Spam-Classification.git
 cd SMS-Spam-Classification
 
 Install dependencies:
